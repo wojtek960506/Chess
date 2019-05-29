@@ -1,5 +1,5 @@
-# ChessCpp
-Here is my implementation of the classical chess game in C++. 
+# Chess
+Here is my implementation of the classical chess game implemented in C++ with graphics made in SDL2. 
 
 The main core of the application is done, but I am still working on development of some additional features and fixing some small bugs. 
 

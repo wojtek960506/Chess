@@ -1,0 +1,39 @@
+7 4
+0 4
+W
+N C
+FTC
+FIGURES
+N W 7 1 0
+N B 0 1 0
+K W 7 4 0
+P B 3 7 1 T
+P W 4 1 1 F
+P W 6 7 0 F
+R B 0 7 0
+R B 0 0 0
+R W 7 7 0
+B W 7 2 0
+P B 1 6 0 F
+B B 0 2 0
+P W 6 6 0 F
+N B 0 6 0
+P B 2 3 1 F
+P W 6 2 0 F
+N W 7 6 0
+P B 1 2 0 F
+R W 7 0 0
+P B 3 5 1 F
+P B 1 0 0 F
+Q W 7 3 0
+P W 6 5 0 F
+Q B 0 3 0
+B B 0 5 0
+P W 6 3 0 F
+B W 7 5 0
+K B 0 4 0
+P B 1 4 0 F
+P B 1 1 0 F
+P W 3 4 2 F
+P W 6 0 0 F
+END
